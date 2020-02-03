@@ -26,7 +26,7 @@ By default, flask will run on port 5000.
 
 3. Navigate to URL http://localhost:5000
 
-https://ind-salarypredictor-api.herokuapp.com/
+                   https://ind-salarypredictor-api.herokuapp.com/
 
 You should be able to view the homepage to enter details:
 
